@@ -16,7 +16,7 @@ away, and attention over neighbours is what exposes it.
 pip install -r requirements.txt
 jupyter notebook 02_gat_fraud_ring_detection.ipynb
 ```
-
+ 
 ## Contents
 
 1. **Synthetic payment graph** — accounts, transactions, and planted fraud rings with camouflage.
